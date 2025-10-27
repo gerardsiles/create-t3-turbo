@@ -55,7 +55,7 @@ packages
   ├─ auth
   │   └─ Authentication using better-auth.
   ├─ db
-  │   └─ Typesafe db calls using Drizzle & Supabase
+  │   └─ Typesafe db calls using Drizzle & Vercel Postgress
   └─ ui
       └─ Start of a UI package for the webapp using shadcn-ui
 tooling
